@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yousef Khawagh</h1>
 <h3 align="center">DevOps and Cloud Engineer</h3>
 
+<p align="left"> <a href="https://twitter.com/yaahraf" target="blank"><img src="https://img.shields.io/twitter/follow/yaahraf?logo=twitter&style=for-the-badge" alt="yaahraf" /></a> </p>
+
+- 🔭 I’m currently working on [Menofia University Portal System](https://portaltest.menofia.edu.eg/?lang=ar)
+
+- 👯 I’m looking to collaborate on **open-source DevOps tools and automation scripts that make developers' lives easier**
+
 - 📫 How to reach me **yashraf540@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13RgxZwTI-_it-l4pPknkItHX-C_35K1L/view?usp=sharing](https://drive.google.com/file/d/13RgxZwTI-_it-l4pPknkItHX-C_35K1L/view?usp=sharing)
@@ -9,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yousef-khawagh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yousef-khawagh/" height="30" width="40" /></a>
-<a href="https://fb.com/yousef khawagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef khawagh" height="30" width="40" /></a>
+<a href="https://twitter.com/yaahraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaahraf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yousef-khawagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef-khawagh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
