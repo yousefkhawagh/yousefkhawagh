@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yashraf540@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13RgxZwTI-_it-l4pPknkItHX-C_35K1L/view?usp=sharing]([https://drive.google.com/file/d/19iqeBoBesQxHTKskWJGnNW0n8F4adtNu/view?usp=sharing](https://docs.google.com/document/d/1kp_xeRkpem8G5IwaslxFymTpJ8_vN52n/edit?usp=sharing&ouid=110940473932426174909&rtpof=true&sd=true))
+- 📄 Know about my experiences (https://docs.google.com/document/d/1kp_xeRkpem8G5IwaslxFymTpJ8_vN52n/edit?usp=sharing&ouid=110940473932426174909&rtpof=true&sd=true))
 
 - ⚡ Fun fact **I treat each Git commit like a journal entry of my tech journey**
 
