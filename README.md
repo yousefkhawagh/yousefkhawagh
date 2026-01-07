@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yaahraf" target="blank"><img src="https://img.shields.io/twitter/follow/yaahraf?logo=twitter&style=for-the-badge" alt="yaahraf" /></a> </p>
 
-- 👯 DevOps Engineer focused on AWS and Kubernetes, building automated CI/CD and IaC workflows. Hands-on with Terraform, 
+-  DevOps Engineer focused on AWS and Kubernetes, building automated CI/CD and IaC workflows. Hands-on with Terraform, 
 Jenkins, ArgoCD (GitOps), Docker, and observability using Prometheus/Grafana. Recognized for strong problem-solving, 
 adaptability, and teamwork.
 
