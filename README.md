@@ -5,7 +5,7 @@
 
 - 👯 DevOps Engineer focused on AWS and Kubernetes, building automated CI/CD and IaC workflows. Hands-on with Terraform, 
 Jenkins, ArgoCD (GitOps), Docker, and observability using Prometheus/Grafana. Recognized for strong problem-solving, 
-adaptability, and teamwork.**
+adaptability, and teamwork.
 
 - 📫 How to reach me **yashraf540@gmail.com**
 
